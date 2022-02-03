@@ -15,3 +15,5 @@
  * AlgoritmoAuxiliar.c
   
   Versão simplificada do algoritmo principal menos sucetível às imprecisões dos sensores acústicos.
+  
+[![DOI](https://zenodo.org/badge/454974670.svg)](https://zenodo.org/badge/latestdoi/454974670)
